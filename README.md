@@ -35,3 +35,8 @@ This entire repository was created and is being extended by the persistent-self-
 2. Wire in subsumption architecture priority stack
 3. Add decision-audit-log integration
 4. Generate example agents for farming-almanac, cloud-attack-monitor, and conceptual BMD simulation
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/everything-ai-2026-08/wiki](https://github.com/fitzyracing1/everything-ai-2026-08/wiki)
